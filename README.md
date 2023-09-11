@@ -1,2 +1,2 @@
 # Capital_Market
-Capital Market Projects
+* Stock Market Analysis and Time Series Prediction
